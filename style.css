@@ -26,14 +26,14 @@
 
 .input-data input:focus ~ label,
 .input-data input:valid ~ label{
-    transform: translateY(-35px);
-    font-size: 15px;
+    transform: translateY(-37px);
+    font-size: 20px;
 }
 
 .wrapper .input-data label{
     position: absolute;
     bottom: 10px;
-    left: 0;
+    right: 0;
     color: black;
     pointer-events: none;
     transition: all 0.3s ease;
@@ -60,7 +60,7 @@ h1 {
 }
 
 .container .group {
-  padding: 8px 48px;
+  padding: 8px 100px;
   margin: 8px;
 }
 
