@@ -60,7 +60,7 @@ h1 {
 }
 
 .container .group {
-  padding: 8px 100px;
+  padding: 8px 42px;
   margin: 8px;
 }
 
@@ -74,7 +74,7 @@ label {
 
 label::before {
   content: "";
-  background: url("check-circle.svg");
+  background: url("check-circle.png");
   background-position: center;
   background-size: contain;
   width: 32px;
